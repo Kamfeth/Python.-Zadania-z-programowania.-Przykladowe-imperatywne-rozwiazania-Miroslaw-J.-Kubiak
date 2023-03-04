@@ -3,7 +3,7 @@ def main():
   nazwisko = input("Podaj swoje nazwisko: ")
   wiek = int(input(("Podaj swój wiek: ")))
   cenaChleba = float(input(("Podaj cenę chleba: ")))
-  print("\nOto wprowadzone dane: ")
+  print("\nOto wprowadzone dane:")
   print("Imię:", imie)
   print("Nazwisko:", nazwisko)
   print("Wiek:", wiek)
